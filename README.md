@@ -1,6 +1,6 @@
 # Market Price Scan :shopping_cart:
 
-![Android](https://img.shields.io/static/v1?label=made%20for&message=android&color=green&style=for-the-badge&logo=ANDROID) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Android](https://img.shields.io/static/v1?label=made%20for&message=android&color=green&style=for-the-badge&logo=ANDROID) 
 
 ## Tópicos
   <ol>
