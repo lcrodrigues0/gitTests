@@ -32,7 +32,7 @@ O projeto foi desenvolvido na disciplina de Projeto Integrado do curso de Ciênc
 
 ## :label: Funcionalidades
 
- * Login com email 
+ * Fazer login com email 
  * Criar listas de compras
  * Compartilhar listas de compras com amigos
  * Gerenciar e alterar listas de compras já criadas.
