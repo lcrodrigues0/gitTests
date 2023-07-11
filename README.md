@@ -28,11 +28,15 @@ O projeto foi desenvolvido na disciplina de Projeto Integrado do curso de Ciênc
 <div id="funcionalidades"> </div>
 
 ## Funcionalidades
-Algumas coisas que você pode fazer:
-* Login com sua conta da Twitch
-* Buscar por jogos para adicionar à sua biblioteca
-* Mudar o status dos jogos que você já tem
-* Definir as datas de início e fim das jogatinas, te possibilitando visualizar quanto tempo demorou para finalizar
+
+## Funcionalidades
+
+:heavy_check_mark: Login com email 
+:heavy_check_mark: Criar listas de compras
+:heavy_check_mark: Compartilhar listas de compras com amigos
+:heavy_check_mark: Gerenciar e alterar listas de compras já criadas.
+:heavy_check_mark: Criar listas de compra escaneando QR Code.
+:heavy_check_mark: Comparar preço das listas de compra entre supermercados.
 
 
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#objects
