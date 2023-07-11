@@ -59,9 +59,9 @@ Aqui estão a linguagem, IDE e ferrmentas que foram utilizadas no desenvolviment
 
 <div id="contribuindo"> </div>
 
-## 🤝 Contribuindo
+## 🤝 Contribuições
 
-Se você tem alguma sugestão que fará este app ficar melhor, por favor realize um fork e crie um Pull Request. Você pode também simplesmente abrir uma issue com a tag "enhancement" para sugestões e "error" para problemas enfrentados
+Se você tem alguma sugestão de contribuição para melhorar o app, por favor realize um fork e crie um Pull Request. Você pode também simplesmente abrir uma issue com a tag "enhancement" para sugestões e "error" para problemas enfrentados
 
 1. Faça um fork do Projeto
 2. Crie seu branch da Feature (`git checkout -b feature/AmazingFeature`)
@@ -73,7 +73,7 @@ Se você tem alguma sugestão que fará este app ficar melhor, por favor realize
 
 ## 🔐 Licença
 
-Distribuído na Licença MIT. Veja `License.txt` para mais informações
+Distribuído na Licença MIT. Veja `LICENSE` para mais informações
 
 
 <div id="contato"> </div>
