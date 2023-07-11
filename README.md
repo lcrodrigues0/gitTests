@@ -29,13 +29,16 @@ O projeto foi desenvolvido na disciplina de Projeto Integrado do curso de Ciênc
 
 ## Funcionalidades
 
-## Funcionalidades
-
 :heavy_check_mark: Login com email 
+
 :heavy_check_mark: Criar listas de compras
+
 :heavy_check_mark: Compartilhar listas de compras com amigos
+
 :heavy_check_mark: Gerenciar e alterar listas de compras já criadas.
+
 :heavy_check_mark: Criar listas de compra escaneando QR Code.
+
 :heavy_check_mark: Comparar preço das listas de compra entre supermercados.
 
 
