@@ -91,3 +91,5 @@ Link do projeto: [https://github.com/e-magesk/Market-Price-Scan](https://github.
 
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#objects
 
+Historico de lançamentos: https://github.com/dbader/readme-template/tree/master/portuguese
+
