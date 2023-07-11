@@ -84,10 +84,10 @@ Eduarda Magesk - @edu.ufes.br
 
 Letícia Cardoso - leticia.c.rodrigues@edu.ufes.br
 
-Link do projeto: [https://github.com/matheuslenke/GameCenter](https://github.com/matheuslenke/GameCenter)
+Link do projeto: [https://github.com/e-magesk/Market-Price-Scan](https://github.com/e-magesk/Market-Price-Scan)
 
 
-
+-------------------------------------
 
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#objects
 
