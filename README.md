@@ -7,9 +7,12 @@
     <li><a href="#sobre-o-projeto">Sobre o Projeto</a></li>
     <li><a href="#funcionalidades">Funcionalidades</a></li>
     <li><a href="#feito-com">Feito com</a></li>
-    <li><a href="#comecando">Começando</a></li>
-    <li><a href="#pre-requisitos">Pré-Requisitos</a></li>
-    <li><a href="#instalacao">Instalação</a></li>
+    <li><a href="#deploy">Deploy da aplicação</a>
+        <ol>
+            <li><a href="#pre-requisitos">Pré-Requisitos</a></li>
+            <li><a href="#instalacao">Instalação</a></li>
+        </ol>
+    </li>
     <li><a href="#exemplos-de-uso">Exemplos de uso</a></li>
     <li><a href="#estrutura-de-arquivos">Estrutura de Arquivos</a></li>
     <li><a href="#contribuindo">Contribuindo</a></li>
@@ -27,19 +30,64 @@ O projeto foi desenvolvido na disciplina de Projeto Integrado do curso de Ciênc
 
 <div id="funcionalidades"> </div>
 
-## Funcionalidades
+## :label: Funcionalidades
 
-:heavy_check_mark: Login com email 
+ * Login com email 
+ * Criar listas de compras
+ * Compartilhar listas de compras com amigos
+ * Gerenciar e alterar listas de compras já criadas.
+ * Criar listas de compra escaneando QR Code.
+ * Comparar preço das listas de compra entre supermercados.
 
-:heavy_check_mark: Criar listas de compras
+<div id="feito-com"> </div>
 
-:heavy_check_mark: Compartilhar listas de compras com amigos
+## :hammer: Feito com
 
-:heavy_check_mark: Gerenciar e alterar listas de compras já criadas.
+Aqui estão a linguagem, IDE e ferrmentas que foram utilizadas no desenvolvimento desta aplicação:
 
-:heavy_check_mark: Criar listas de compra escaneando QR Code.
+* [Android Studio](https://developer.android.com/studio)
+* [Kotlin](https://kotlinlang.org/)
+* [Gradle](https://gradle.org/)
+* [Firebase](https://firebase.google.com/?hl=pt)
 
-:heavy_check_mark: Comparar preço das listas de compra entre supermercados.
+<div id="deploy"> </div>
+
+## :calling: Deploy da Aplicação
+
+### Pré-requisitos
+### Instalação
+
+<div id="contribuindo"> </div>
+
+## 🤝 Contribuindo
+
+Se você tem alguma sugestão que fará este app ficar melhor, por favor realize um fork e crie um Pull Request. Você pode também simplesmente abrir uma issue com a tag "enhancement" para sugestões e "error" para problemas enfrentados
+
+1. Faça um fork do Projeto
+2. Crie seu branch da Feature (`git checkout -b feature/AmazingFeature`)
+3. Faça commit das suas modificações (`git commit -m 'Add some AmazingFeature'`)
+4. Faça um push para o branch (`git push origin feature/AmazingFeature`)
+5. Abra um Pull Request
+
+<div id="licenca"> </div>
+
+## 🔐 Licença
+
+Distribuído na Licença MIT. Veja `License.txt` para mais informações
+
+
+<div id="contato"> </div>
+
+## ✉️ Contato
+
+Eduarda Magesk - @edu.ufes.br
+
+Letícia Cardoso - leticia.c.rodrigues@edu.ufes.br
+
+Link do projeto: [https://github.com/matheuslenke/GameCenter](https://github.com/matheuslenke/GameCenter)
+
+
 
 
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#objects
+
