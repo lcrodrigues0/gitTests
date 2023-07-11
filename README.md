@@ -1,4 +1,4 @@
-# Market Price Scan :supermarket:
+# Market Price Scan :shoppingcart:
 
 ![Android](https://img.shields.io/static/v1?label=made%20for&message=android&color=green&style=for-the-badge&logo=ANDROID) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
@@ -33,3 +33,6 @@ Algumas coisas que você pode fazer:
 * Buscar por jogos para adicionar à sua biblioteca
 * Mudar o status dos jogos que você já tem
 * Definir as datas de início e fim das jogatinas, te possibilitando visualizar quanto tempo demorou para finalizar
+
+
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#objects
